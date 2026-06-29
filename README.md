@@ -1,5 +1,5 @@
 # 💫 About Me:
-Pursuing btech computer science engineerig<br>skillled in python,html,css and javascript<br>Always learning, exploring, and growing in the field of technology<br>
+Pursuing btech computer science engineerig<br>Skillled in Python,HTML,CSS and Javascript<br>Always learning, exploring, and growing in the field of technology<br>
 
 
 ## 🌐 Socials:
